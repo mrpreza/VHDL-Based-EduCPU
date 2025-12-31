@@ -98,5 +98,3 @@ You can view the full license text here: [CC BY-ND 4.0 License](https://creative
 ![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY%20ND%204.0-lightgrey)
 
 
-```
-
